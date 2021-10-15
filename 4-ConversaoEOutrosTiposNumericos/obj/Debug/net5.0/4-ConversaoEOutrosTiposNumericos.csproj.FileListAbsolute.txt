@@ -1,0 +1,16 @@
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.exe
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.deps.json
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.dll
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\net5.0\ref\4-ConversaoEOutrosTiposNumericos.dll
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\bin\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.pdb
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.csproj.AssemblyReference.cache
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.dll
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\ref\4-ConversaoEOutrosTiposNumericos.dll
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.pdb
+C:\Users\julii\source\repos\AprendendoCSharp\4-ConversaoEOutrosTiposNumericos\obj\Debug\net5.0\4-ConversaoEOutrosTiposNumericos.genruntimeconfig.cache
