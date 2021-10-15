@@ -1,0 +1,15 @@
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\bin\Debug\net5.0\11-CalculoPoupanca2(For).exe
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\bin\Debug\net5.0\11-CalculoPoupanca2(For).deps.json
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\bin\Debug\net5.0\11-CalculoPoupanca2(For).runtimeconfig.json
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\bin\Debug\net5.0\11-CalculoPoupanca2(For).runtimeconfig.dev.json
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\bin\Debug\net5.0\11-CalculoPoupanca2(For).dll
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\bin\Debug\net5.0\ref\11-CalculoPoupanca2(For).dll
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\bin\Debug\net5.0\11-CalculoPoupanca2(For).pdb
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\obj\Debug\net5.0\11-CalculoPoupanca2(For).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\obj\Debug\net5.0\11-CalculoPoupanca2(For).AssemblyInfoInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\obj\Debug\net5.0\11-CalculoPoupanca2(For).AssemblyInfo.cs
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\obj\Debug\net5.0\11-CalculoPoupanca2(For).csproj.CoreCompileInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\obj\Debug\net5.0\11-CalculoPoupanca2(For).dll
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\obj\Debug\net5.0\ref\11-CalculoPoupanca2(For).dll
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\obj\Debug\net5.0\11-CalculoPoupanca2(For).pdb
+C:\Users\julii\source\repos\AprendendoCSharp\CalculoPoupanca2(For)\obj\Debug\net5.0\11-CalculoPoupanca2(For).genruntimeconfig.cache

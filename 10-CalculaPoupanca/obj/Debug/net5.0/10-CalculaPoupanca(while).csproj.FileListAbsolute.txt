@@ -1,0 +1,15 @@
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca(while).exe
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca(while).deps.json
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca(while).runtimeconfig.json
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca(while).runtimeconfig.dev.json
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca(while).dll
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net5.0\ref\10-CalculaPoupanca(while).dll
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca(while).pdb
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca(while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca(while).AssemblyInfoInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca(while).AssemblyInfo.cs
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca(while).csproj.CoreCompileInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca(while).dll
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net5.0\ref\10-CalculaPoupanca(while).dll
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca(while).pdb
+C:\Users\julii\source\repos\AprendendoCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca(while).genruntimeconfig.cache
