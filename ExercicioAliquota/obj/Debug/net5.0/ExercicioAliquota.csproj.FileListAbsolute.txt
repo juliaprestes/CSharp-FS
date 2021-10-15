@@ -1,0 +1,15 @@
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\net5.0\ExercicioAliquota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\net5.0\ExercicioAliquota.AssemblyInfoInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\net5.0\ExercicioAliquota.AssemblyInfo.cs
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\net5.0\ExercicioAliquota.csproj.CoreCompileInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\net5.0\ExercicioAliquota.exe
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\net5.0\ExercicioAliquota.deps.json
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\net5.0\ExercicioAliquota.runtimeconfig.json
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\net5.0\ExercicioAliquota.runtimeconfig.dev.json
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\net5.0\ExercicioAliquota.dll
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\net5.0\ref\ExercicioAliquota.dll
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\bin\Debug\net5.0\ExercicioAliquota.pdb
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\net5.0\ExercicioAliquota.dll
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\net5.0\ref\ExercicioAliquota.dll
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\net5.0\ExercicioAliquota.pdb
+C:\Users\julii\source\repos\AprendendoCSharp\ExercicioAliquota\obj\Debug\net5.0\ExercicioAliquota.genruntimeconfig.cache

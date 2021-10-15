@@ -1,0 +1,15 @@
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\bin\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).exe
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\bin\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).deps.json
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\bin\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).runtimeconfig.json
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\bin\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).runtimeconfig.dev.json
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\bin\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).dll
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\bin\Debug\net5.0\ref\12-CalculaInvestimentoLongoPrazo(ForEncadeado).dll
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\bin\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).pdb
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\obj\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\obj\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).AssemblyInfoInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\obj\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).AssemblyInfo.cs
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\obj\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).csproj.CoreCompileInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\obj\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).dll
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\obj\Debug\net5.0\ref\12-CalculaInvestimentoLongoPrazo(ForEncadeado).dll
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\obj\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).pdb
+C:\Users\julii\source\repos\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo(ForEncadeado)\obj\Debug\net5.0\12-CalculaInvestimentoLongoPrazo(ForEncadeado).genruntimeconfig.cache
