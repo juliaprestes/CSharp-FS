@@ -1,0 +1,15 @@
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\bin\Debug\net5.0\multiplosDeTres.exe
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\bin\Debug\net5.0\multiplosDeTres.deps.json
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\bin\Debug\net5.0\multiplosDeTres.runtimeconfig.json
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\bin\Debug\net5.0\multiplosDeTres.runtimeconfig.dev.json
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\bin\Debug\net5.0\multiplosDeTres.dll
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\bin\Debug\net5.0\ref\multiplosDeTres.dll
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\bin\Debug\net5.0\multiplosDeTres.pdb
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\obj\Debug\net5.0\multiplosDeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\obj\Debug\net5.0\multiplosDeTres.AssemblyInfoInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\obj\Debug\net5.0\multiplosDeTres.AssemblyInfo.cs
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\obj\Debug\net5.0\multiplosDeTres.csproj.CoreCompileInputs.cache
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\obj\Debug\net5.0\multiplosDeTres.dll
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\obj\Debug\net5.0\ref\multiplosDeTres.dll
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\obj\Debug\net5.0\multiplosDeTres.pdb
+C:\Users\julii\source\repos\AprendendoCSharp\multiplosDeTres\obj\Debug\net5.0\multiplosDeTres.genruntimeconfig.cache
